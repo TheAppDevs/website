@@ -1,0 +1,45 @@
+url: https://y7kim.github.io
+baseurl:
+
+# Site settings
+title: TheAppDevs
+email: your-email@domain.com
+description: ""
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 0096b6
+  secondary: 32526e
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Ryan Beckett
+  pic: 1
+  position: Founder/iOS Dev
+  social:
+    - title: twitter
+      url: https://twitter.com/Ryan_Beckett_
+
+- name: Kris Jones
+  pic: 2
+  position: Co-founder/Technical Lead
+  social:
+    - title: twitter
+      url: https://twitter.com/KrisJones4
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/The_AppDevs
+  - title: github
+    url: http://github.com/TheAppDevs
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
